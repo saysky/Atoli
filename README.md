@@ -1,7 +1,7 @@
 ## 博主开发的其他酒店系统全部在这里
 **[https://liuyanzhao.com/shop.html?k=酒店](https://liuyanzhao.com/shop.html?k=酒店)**  
 - -------------------------------------------------------------------------------
-- 2022 基于SpringBoot/SSM的酒店管理系统，已对接支付宝沙箱支付
+- 2022 基于SpringBoot/SSM的酒店预定管理系统，已对接支付宝沙箱支付
 - 预览地址：[http://atoli.liuyanzhao.com](http://atoli.liuyanzhao.com) （账号admin/123456）
 - 详细介绍地址：[https://liuyanzhao.com/shop/atoli.html](https://liuyanzhao.com/shop/atoli.html)
 - 代码地址：https://github.com/saysky/atoli 或 https://gitee.com/saysky/atoli
@@ -10,14 +10,14 @@
 # 一、功能介绍
 - 包括管理员、前台工作人员、保洁阿姨、客户 四种角色
 - 主要包括如下功能：
-## 客户功能如下
+## 客户功能
 - 1. 客户注册、登录、找回密码
 - 2. 留言板查看和留言
 - 3. 浏览客房，根据入住日期和退房日期查询和预定客房
 - 4. 支付订单，支付已对接了支付宝沙箱支付，可可以随时关闭启动
 - 5. 客户可以退房，续订，取消订单等功能
 
-## 管理员功能如下
+## 管理员功能
 - 1. 客房管理
 - 2. 客房类型管理
 - 3. 订单管理
