@@ -1,3 +1,6 @@
+## 博主开发的其他酒店系统全部在这里
+**[https://liuyanzhao.com/shop.html?k=酒店](https://liuyanzhao.com/shop.html?k=酒店)**  
+- -------------------------------------------------------------------------------
 - 2022 基于SpringBoot/SSM的酒店管理系统，已对接支付宝沙箱支付
 - 预览地址：[http://atoli.liuyanzhao.com](http://atoli.liuyanzhao.com) （账号admin/123456）
 - 详细介绍地址：[https://liuyanzhao.com/shop/atoli.html](https://liuyanzhao.com/shop/atoli.html)
