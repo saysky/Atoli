@@ -5,7 +5,6 @@
 - 预览地址：[http://atoli.liuyanzhao.com](http://atoli.liuyanzhao.com) （账号admin/123456）
 - 详细介绍地址：[https://liuyanzhao.com/shop/atoli.html](https://liuyanzhao.com/shop/atoli.html)
 - 代码地址：https://github.com/saysky/atoli 或 https://gitee.com/saysky/atoli
-- 完成时间：2022年5月
 
 # 一、功能介绍
 - 包括管理员、前台工作人员、保洁阿姨、客户 四种角色
