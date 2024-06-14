@@ -51,4 +51,3 @@ public class RolePermissionRef  extends BaseEntity {
                 ", permissionId=" + permissionId +
                 '}';
     }
-}

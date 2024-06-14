@@ -149,4 +149,3 @@ public class Permission  extends BaseEntity {
                 ", childPermissions=" + childPermissions +
                 '}';
     }
-}

@@ -116,4 +116,3 @@ public class Role  extends BaseEntity {
                 ", permissions=" + permissions +
                 '}';
     }
-}

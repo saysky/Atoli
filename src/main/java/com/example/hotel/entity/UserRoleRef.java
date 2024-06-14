@@ -54,4 +54,3 @@ public class UserRoleRef  extends BaseEntity {
                 ", roleId=" + roleId +
                 '}';
     }
-}

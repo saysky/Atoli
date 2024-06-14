@@ -191,4 +191,3 @@ public class Post extends BaseEntity {
                 ", category=" + category +
                 '}';
     }
-}

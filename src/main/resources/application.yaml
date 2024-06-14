@@ -76,4 +76,3 @@ mail:
     name: Hotel
 
 # 是否开启支付宝支付，默认不开启
-openAlipay: false
